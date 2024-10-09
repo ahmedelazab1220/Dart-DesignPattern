@@ -27,7 +27,7 @@ By contributing to this project, you help build a high-quality resource for the 
 
 ## 📝 Contribution Guidelines
 
-Please read our Contribution Guidelines before making any changes. Contributions in any form are welcome, including:
+Please read our <a href="https://github.com/ahmedelazab1220/Dart-DesignPattern/blob/main/CONTRIBUTING.md"> Contribution Guidelines </a> before making any changes. Contributions in any form are welcome, including:
 
 - Adding new design patterns.
 
@@ -37,6 +37,6 @@ Please read our Contribution Guidelines before making any changes. Contributions
 
 - Fixing bugs or code optimizations.
 
-🛡 License
+## 🛡 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/ahmedelazab1220/Dart-DesignPattern/blob/main/LICENSE"> LICENSE </a> file for details.
