@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-=======
 # Dart Design Patterns Library
 
 ## 🎨 Overview
@@ -19,6 +15,7 @@ Whether you're a beginner or a seasoned Dart developer, this project offers valu
 - Behavioral: Strategy, Observer, Command, etc.
 
 ## 🚀 Why Contribute?
+
 By contributing to this project, you help build a high-quality resource for the Dart developer community. You’ll also:
 
 - 🧠 Deepen your understanding of design patterns by working hands-on with practical examples.
@@ -44,4 +41,3 @@ Please read our <a href="https://github.com/ahmedelazab1220/Dart-DesignPattern/b
 ## 🛡 License
 
 This project is licensed under the MIT License - see the <a href="https://github.com/ahmedelazab1220/Dart-DesignPattern/blob/main/LICENSE"> LICENSE </a> file for details.
->>>>>>> e595fe9cd69304c646a07904914e334c5d9207e1
